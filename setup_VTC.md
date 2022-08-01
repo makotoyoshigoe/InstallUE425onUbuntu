@@ -1,5 +1,3 @@
-# How to use
-
 ## step1: Clone repository
 ```
 git clone git@github.com:furo-org/VTC.git

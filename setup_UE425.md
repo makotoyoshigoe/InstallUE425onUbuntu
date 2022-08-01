@@ -1,5 +1,3 @@
-# How to use
-
 ## step0: Clone UnrealEngine repository
 ```
 git clone -b 4.25 git@github.com:EpicGames/UnrealEngine.git
